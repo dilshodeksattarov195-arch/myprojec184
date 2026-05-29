@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsronnect",
+        "uuid": 1282112,
+        "checksum": "qt9u5i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
